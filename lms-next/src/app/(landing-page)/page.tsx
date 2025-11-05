@@ -8,7 +8,7 @@ import HeroSection from '@/components/landing-page/HeroSection';
 import Navbar from '@/components/landing-page/Navbar';
 
 
-export default function HomePage() {
+export default function LandingPage() {
   return (
     <main>
       <Navbar />

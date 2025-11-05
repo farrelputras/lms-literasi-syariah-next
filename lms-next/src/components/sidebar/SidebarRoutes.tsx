@@ -2,13 +2,19 @@
 
 import { BarChart, Compass, Layout, List } from 'lucide-react';
 import { usePathname } from 'next/navigation';
+
 import SidebarItem from './SidebarItem';
 
 const guestRoutes = [
     {
         icon: Layout,
         label: 'Dashboard',
-        href: '/',
+        href: '/dashboard',
+    },
+    {
+        icon: Compass,
+        label: 'My Courses',
+        href: '/my-courses',
     },
     {
         icon: Compass,
