@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 
 import { useDebounce } from "@/hooks/use-debounce";
 
-import { Input } from "./ui/Input";
+import { Input } from "./ui/input";
 
 export const SearchInput = () => {
     const [value, setValue] = useState("");

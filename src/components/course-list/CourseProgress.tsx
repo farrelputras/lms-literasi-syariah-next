@@ -1,7 +1,7 @@
 
 import { cn } from "@/lib/utils"
 
-import { Progress } from "../ui/Progress"
+import { Progress } from "../ui/progress"
 
 interface courseProgressProps {
     variant?: "default" | "success",

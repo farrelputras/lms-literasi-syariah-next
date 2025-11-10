@@ -3,7 +3,7 @@ import { redirect } from "next/navigation";
 
 import { Banner } from "@/components/banner";
 import { Preview } from "@/components/preview";
-import { Separator } from "@/components/ui/Separator";
+import { Separator } from "@/components/ui/separator";
 
 import { getChapters } from "@/actions/get-chapters";
 

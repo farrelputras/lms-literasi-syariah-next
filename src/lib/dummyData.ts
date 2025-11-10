@@ -68,7 +68,7 @@ export const dummyCourseData = {
     chapters: [
         {
             _id: 'ch-1',
-            courseId: 'course-1',
+            courseId: '1',
             title: 'Pengenalan Fiqih Muamalah',
             isCompleted: {
                 'user-123': true,
@@ -77,7 +77,7 @@ export const dummyCourseData = {
         },
         {
             _id: 'ch-2',
-            courseId: 'course-1',
+            courseId: '1',
             title: 'Prinsip-Prinsip Jual Beli dalam Islam',
             isCompleted: {
                 'user-123': true,
@@ -86,7 +86,7 @@ export const dummyCourseData = {
         },
         {
             _id: 'ch-3',
-            courseId: 'course-1',
+            courseId: '1',
             title: 'Akad dan Jenisnya',
             isCompleted: {
                 'user-123': false,
@@ -95,7 +95,7 @@ export const dummyCourseData = {
         },
         {
             _id: 'ch-4',
-            courseId: 'course-1',
+            courseId: '1',
             title: 'Riba dan Larangan dalam Muamalah',
             isCompleted: {
                 'user-123': false,
@@ -104,7 +104,7 @@ export const dummyCourseData = {
         },
         {
             _id: 'ch-5',
-            courseId: 'course-1',
+            courseId: '1',
             title: 'Mudharabah dan Musyarakah',
             isCompleted: {
                 'user-123': false,
@@ -113,7 +113,7 @@ export const dummyCourseData = {
         },
         {
             _id: 'ch-6',
-            courseId: 'course-1',
+            courseId: '1',
             title: 'Sistem Ekonomi Syariah Modern',
             isCompleted: {
                 'user-123': false,
